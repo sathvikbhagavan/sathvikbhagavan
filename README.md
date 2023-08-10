@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sathvik
-- 👀 I’m interested in Machine Learning, Computer Vision and its applications
-- 💞️ I’m looking to collaborate on Computer Vision Projects relating to healthcare, video analysis and any other interesting applications.
+- 👋 Hi, I’m Sathvik!
+- 👀 I’m interested in Scientific Machine Learning, Computer Vision & its applications
 - 📫 How to reach me sathvikbhagavan@gmail.com
 
 <!---
