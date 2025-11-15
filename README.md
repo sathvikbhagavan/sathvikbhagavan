@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sathvik!
-- 👀 I’m interested in Scientific Machine Learning, Computer Vision & its applications
+- 👀 I’m interested in Scientific Machine Learning, Computer Vision, LLMs & its applications
 - 📫 How to reach me sathvikbhagavan@gmail.com
 
 # 📊 GitHub Stats:
