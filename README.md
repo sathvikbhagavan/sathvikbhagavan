@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Sathvik!
-- 👀 I’m interested in Scientific Machine Learning, Computer Vision, LLMs & its applications
-- 📫 How to reach me sathvikbhagavan@gmail.com
+- 👋 Hi, I'm Sathvik — a Master's student in Computer Science at EPFL
+- 🔬 Broadly interested in Agentic Systems, AI for Science, Computer Vision, and LLMs & their applications
+- 💼 Actively looking for full-time Machine Learning Engineer roles starting April 2027
+- 📫 Reach me at sathvikbhagavan@gmail.com
